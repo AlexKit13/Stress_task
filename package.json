@@ -1,0 +1,14 @@
+{
+  "name": "stress_task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Polyanitsa Alexander",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^27.4.0",
+    "jest": "^27.4.7"
+  },
+  "scripts": {
+    "test": "jest --coverage"
+  }
+}
